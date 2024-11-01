@@ -3,7 +3,7 @@ A SQL- based data analysis project on e-commerce data for a tech gadgets company
 ## Project Overview
 This project analyzes an e-commerce dataset for a tech gadget company using SQL. The goal is to extract the insights into customer behavior, order patterns and payment trends.
 
-##Dataset
+## Dataset
 The project uses tables including: 
 Customer: customer details such as customer_id, name, email and date_created
 Products: product_id, product_name, price and stock
