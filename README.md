@@ -5,7 +5,7 @@ This project analyzes an e-commerce dataset for a tech gadget company using SQL.
 
 ## Dataset
 The project uses tables including: 
-Customer: customer details such as customer_id, name, email and date_created
+. Customer: customer details such as customer_id, name, email and date_created
 Products: product_id, product_name, price and stock
 Orders: order_id, customer_id and order_date
 Order_details: order_id, product_id and quantity
