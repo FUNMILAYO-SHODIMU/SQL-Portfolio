@@ -4,11 +4,21 @@ A SQL- based data analysis project on e-commerce data for a tech gadgets company
 ### Table of Contents
 
  - [Project Overview](#project-overview)
+ - [Data Source](#data-source)
+ - [Tools Used](#tools-used)
+ - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [SQL Queries](#sql-queries)
+ - [Findings](#findings)
+ - [Recommendations](#recommendations)
+ - [Limitations](#limitations)
+
+   
 ## Project Overview
 This project analyzes an e-commerce dataset for a tech gadgets company to deliver insights into customer behavior, sales trends, products popularity and payment method. Using SQL, I organized and queried data to identify actionable insights that can inform marketing, inventory and operational decisions, making the business more data driven.
 
 
-## Data  Sources
+## Data Source
 
 The dataset was synthetically created to resemble real-world e-commerce data, capturing various aspects of the business, including customer information, orders, products and payment records. The project uses tables including: 
 - Customer: customer details such as customer_id, name, email and date_created
@@ -24,7 +34,7 @@ The dataset was synthetically created to resemble real-world e-commerce data, ca
 - DataCamp: Platform for learning AI and Data related courses and gaining hands-on experience.
 
 
-## Data Cleaning/ Preparation
+## Data Cleaning and Preparation
 
 To prepare the data analysis, I:
 1. Used CREATE TABLE and INSERT into statements to set up the database schema and populate tables.
@@ -130,6 +140,8 @@ LIMIT 5;
 
 ![Result](Tech Gadget Analysis 6.PNG)
 
+![Tech Gadget Analysis 7](https://github.com/user-attachments/assets/cef628b3-99e4-4451-861d-01d731d0bbf8)
+
 
 
 ```
@@ -142,6 +154,7 @@ ORDER BY month;
 
 ![Result](Tech Gadget Analysis 7.PNG)
 
+![Screenshot (229)](https://github.com/user-attachments/assets/2804edd7-06ac-4a0e-b8a9-d024f8bfb07f)
 
 
 
@@ -161,4 +174,14 @@ WHERE p.payment_id IS NULL;
 ![Tech Gadget Analysis 8](https://github.com/user-attachments/assets/35c39537-1495-4b56-be58-b625cd0a8c7a)
 
 
+## Findings
 
+- Customer Analysis: I dentified high-value customers based on order frequency.
+- Product Performance: Determined top 5 tech gadgets with the highest sales volume, highlighting items for priority restocking.
+- Order Trends: Observed peak ordering times and seasonal patterns.
+- Payment Insights: Found a preference for certain payment methods, inbforming potential improvements to the checkout process.
+
+## Recommendations
+
+
+## Limitations
