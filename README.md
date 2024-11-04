@@ -170,3 +170,10 @@ WHERE p.payment_id IS NULL;
 - The dataset is synthetic and may not capture all complexities of a real-world e-commerce business.
 - Certain data points like customer demographics or location were not included, limiting segmentation analysis.
 -  Analysis was limited to SQL, future work could incorporate visualization tools for a more interactive analysis.
+
+
+## Contact 
+
+- [Email](funmyshow@gmail.com)
+- [Additional portfolio](https://www.datacamp.com/portfolio/funmyshow)
+- [Phone Number](08146696383)
