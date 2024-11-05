@@ -174,6 +174,7 @@ WHERE p.payment_id IS NULL;
 
 ## Contact 
 
-- [Email](https://myaccount.google.com/)
+- [Email](https://myaccount.google.com/) funmyshow@gmail.com
 - [Additional portfolio](https://www.datacamp.com/portfolio/funmyshow)
-- [Phone Number](08146696383)
+- [Phone Number](08146696383) 08146696383
+- [Connect on LinkedIn here](https://www.linkedin.com/in/funmilayo-shodimu)
